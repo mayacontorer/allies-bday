@@ -1,0 +1,12 @@
+.container{
+    background-color: pink;
+    display: block;
+}
+
+li{
+    font-size: larger;
+    color: brown;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 300;
+
+}
